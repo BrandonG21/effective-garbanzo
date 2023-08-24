@@ -1,8 +1,5 @@
 # effective-garbanzo
-![Alt text](image-1.png)
-
-## Link
-
+![!\[Alt text\](Development/assets/images/image-1.png)](Development/assets/images/image-1.png)
 
 ## Description
 A site optimized for search engines for our marketing agency Horiseon.
