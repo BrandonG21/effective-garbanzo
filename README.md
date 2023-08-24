@@ -1,5 +1,5 @@
 # effective-garbanzo
-![Alt text](image.png)
+![An online website, with a picture of people working on a project with 4 main rows with content describing the foundations to marketing. ](Development/Images/image-1.png)
 
 ## Description
 A site optimized for search engines for our marketing agency Horiseon.
